@@ -1,3 +1,3 @@
 output id {
-        value = aws_instance.web.ib
+        value = aws_instance.web.id
 }
